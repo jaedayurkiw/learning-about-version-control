@@ -1,2 +1,4 @@
-# learning-about-version-control
-Solving merge conflicts is easy!
+# Learning about Version Control
+
+Author: Jaeda Yurkiw
+
