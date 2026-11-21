@@ -2,3 +2,5 @@
 
 Author: Jaeda Yurkiw
 
+Solving merge conflicts is easy!
+
